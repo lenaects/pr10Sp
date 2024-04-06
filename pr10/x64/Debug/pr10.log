@@ -1,0 +1,11 @@
+﻿  pr10.cpp
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(41,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(136,64): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(136,64): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(232,64): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(232,64): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(258,69): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(258,69): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(115,10): warning C4101: stroka3: неиспользованная локальная переменная
+C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\pr10.cpp(171,17): warning C4101: si4: неиспользованная локальная переменная
+  pr10.vcxproj -> C:\Users\307-08\Desktop\ОберюхтинаПр-31\pr10\x64\Debug\pr10.exe
